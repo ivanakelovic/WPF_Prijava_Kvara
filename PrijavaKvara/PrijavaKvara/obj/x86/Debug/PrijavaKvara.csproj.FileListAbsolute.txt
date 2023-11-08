@@ -1,0 +1,57 @@
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\bin\Debug\PrijavaKvara.exe
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\bin\Debug\PrijavaKvara.pdb
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\MainWindow.baml
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\App.g.cs
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara_MarkupCompile.cache
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.g.resources
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.csproj.GenerateResource.Cache
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.exe
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.pdb
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\obrada.png
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\odbacena.png
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\podnesena.png
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\rijesena.png
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\ucPrijava.baml
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\ucPrijava.g.cs
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\bin\Debug\mysql.data.dll
+C:\Users\Budimir Kovacevic\Desktop\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.csprojResolveAssemblyReference.cache
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.exe
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.pdb
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\obrada.png
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\odbacena.png
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\podnesena.png
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\rijesena.png
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\bin\Debug\PrijavaKvara.exe
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\bin\Debug\PrijavaKvara.pdb
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\bin\Debug\mysql.data.dll
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.csprojResolveAssemblyReference.cache
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\MainWindow.baml
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\ucPrijava.baml
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\ucPrijava.g.cs
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\App.g.cs
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara_MarkupCompile.cache
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.g.resources
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\OneDrive - Faculty of Electrical Engineering, University of East Sarajevo\Nastava\TMP\Vjezbe 2022\Rokovi\TMP_2022_09_12\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.csproj.GenerateResource.Cache
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.exe
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.pdb
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\obrada.png
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\odbacena.png
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\podnesena.png
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\Resources\rijesena.png
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\PrijavaKvara.exe
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\PrijavaKvara.pdb
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\bin\Debug\mysql.data.dll
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.csprojResolveAssemblyReference.cache
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\MainWindow.baml
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\ucPrijava.baml
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\ucPrijava.g.cs
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\App.g.cs
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara_MarkupCompile.cache
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.g.resources
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\Desktop\09_TMP_01.06_PrijavaKvara\PrijavaKvara\PrijavaKvara\obj\x86\Debug\PrijavaKvara.csproj.GenerateResource.Cache

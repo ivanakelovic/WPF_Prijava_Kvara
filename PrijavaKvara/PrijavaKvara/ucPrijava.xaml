@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="PrijavaKvara.ucPrijava"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="190" d:DesignWidth="521" Margin="5">
+    <Border Grid.RowSpan="2" Grid.ColumnSpan="2" BorderBrush="LightGray" BorderThickness="2" Background="White">
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="23" />
+                <RowDefinition Height="23" />
+                <RowDefinition Height="23" />
+                <RowDefinition Height="23" />
+                <RowDefinition Height="23" />
+                <RowDefinition Height="23" />
+
+            </Grid.RowDefinitions>
+
+        <Label FontStyle="Italic" Content="Neki podaci" HorizontalContentAlignment="Left"  Name="lblNaslov" VerticalContentAlignment="Center" Padding="40 0 0 0" BorderThickness="2" BorderBrush="LightGray" Background="LightCoral" Grid.ColumnSpan="2" />
+        <Image Height="32" HorizontalAlignment="Left" Name="imgSlika" Stretch="Fill" VerticalAlignment="Center" Width="32" Margin="4,0,0,0" Source="/PrijavaKvara;component/Images/obrada.png" />
+            <Label Content="Vrsta problema" Grid.Row="1"  Height="20" HorizontalAlignment="Right" Name="label1" VerticalAlignment="Center" Padding="0" />
+            <Label Content="Opis problema" Grid.Row="2" Height="20" HorizontalAlignment="Right" Name="label2" VerticalAlignment="Center" Padding="0"  />
+            <Label Content="Lokacija" Grid.Row="3" Height="20" HorizontalAlignment="Right" Name="label3" VerticalAlignment="Center" Padding="0"  />
+            <Label Content="Odgovor službe" Grid.Row="4" Height="20" HorizontalAlignment="Right" Name="label5" VerticalAlignment="Center" Padding="0"  />
+            <Label Content="Odgovorio" Grid.Row="5" Height="20" HorizontalAlignment="Right" Name="label6" VerticalAlignment="Center" Padding="0"  />
+            <Label Content="Zadnja izmjena" Grid.Row="6" Height="20" HorizontalAlignment="Right" Name="label8" VerticalAlignment="Center" Padding="0" Grid.RowSpan="2" />
+            <Label Content="Vrsta" Grid.Column="1" Grid.Row="1" Height="20" HorizontalAlignment="Left" Name="lblVrsta" VerticalAlignment="Center" Padding="0" Margin="5 0"  />
+            <Label Content="Opis" Grid.Column="1" Grid.Row="2" Height="20" HorizontalAlignment="Left" Name="lblOpis" VerticalAlignment="Center" Padding="0" Margin="5 0"  />
+            <Label Content="Lokacija" Grid.Column="1" Grid.Row="3" Height="20" HorizontalAlignment="Left" Name="lblLokacija" VerticalAlignment="Center" Padding="0" Margin="5 0"  />
+            <Label Content="Odgovor službe" Grid.Column="1" Grid.Row="4" Height="20" HorizontalAlignment="Left" Name="lblOdgovorna" VerticalAlignment="Center" Padding="0" Margin="5 0"  />
+            <Label Content="Odgovorio" Grid.Column="1" Grid.Row="5" Height="20" HorizontalAlignment="Left" Name="lblOdgovorio" VerticalAlignment="Center" Padding="0" Margin="5 0"   />
+            <Label Content="Izmjena" Grid.Column="1" Grid.Row="6" Height="20" HorizontalAlignment="Left"  Name="lblZadnjaIzmjena" VerticalAlignment="Center" Padding="0" Margin="5 0"/>
+        </Grid>
+    </Border>
+</UserControl>
